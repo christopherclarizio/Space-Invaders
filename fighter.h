@@ -1,4 +1,4 @@
-//Christopher Clarizio cse20311 12-14-2016
+//Christopher Clarizio
 //Interface for the Fighter class
 
 class Fighter{
