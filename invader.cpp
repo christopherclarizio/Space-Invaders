@@ -1,4 +1,4 @@
-//Christopher Clarizio cse20311 12-14-2016
+//Christopher Clarizio
 //Implementation for the class Invader
 
 #include <iostream>
